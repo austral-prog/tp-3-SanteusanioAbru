@@ -4,3 +4,4 @@ def slice_simple():
     print(texto.lower()[0:3])
     print(medio)
     print(texto.lower()[0:8])
+slice_simple()
